@@ -1,0 +1,21 @@
+what is python?
+python high level, interpreted,general purpose object oriented programming langueage.
+its high level built in data structure combined with dynamic typing and dynamic binding.
+python is widly used in web development ,mechine learning  and artifical intellgence.
+
+python is huge collection of standard libreries wich can be used for
+
+mechin learning,
+GUI application(kvyi,pyqt,tiknter)
+web frameworks(django,flask)
+image processing(pillow)
+webscraping(scrapy,soup)
+multimedia
+text processing
+
+
+what is PEP8?
+PEP stands for Python Enhancement Proposal.A PEP is an design document its provide information for the python.or describe
+new features for the python or its process.PEP is especially important since its document style guidlines for the python code.
+
+
